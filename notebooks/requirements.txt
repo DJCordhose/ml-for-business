@@ -1,0 +1,18 @@
+# basics
+numpy
+pandas
+matplotlib
+seaborn
+pydot
+jupyter
+
+# machine learning
+scikit-learn
+
+# deep learning
+tensorflow
+lrcurve
+
+# data analysis
+causalgraphicalmodels
+evidently==0.4.8

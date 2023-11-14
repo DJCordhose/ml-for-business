@@ -1,0 +1,6 @@
+.venv
+notebooks/classifier
+notebooks/classifier-binary
+notebooks/datasets/model-based-1.csv
+notebooks/.ipynb_checkpoints
+notebooks/model.png
